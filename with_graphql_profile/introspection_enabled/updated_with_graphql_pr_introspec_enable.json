@@ -29,7 +29,7 @@
             "defenseAttributes" : {
                "allowIntrospectionQueries" : true,
                "maximumBatchedQueries" : 3,
-               "maximumStructureDepth" : 15,
+               "maximumStructureDepth" : 20,
                "maximumTotalLength" : 100000,
                "maximumValueLength" : 10000,
                "tolerateParsingWarnings" : true
